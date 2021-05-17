@@ -39,6 +39,7 @@ a:hover{
     text-align: justify;
 }
 img{
+    border: 1pt black solid;
     width: 40%;
     display: block;
 }
